@@ -13,7 +13,7 @@ This document maps project requirements to architectural components, planned tes
 | Requirement | Architecture Component | Planned Test | Implementation | Status |
 |---|---|---|---|---|
 | FR-PROC-001 | Windows Event Source / Collector | TC-PROC-001 | Not implemented | Planned |
-| FR-PROC-002 | Process Event Parser / Domain Model | TC-PROC-002 | Not implemented | Planned |
+| FR-PROC-002 | Process Event Parser / Domain Model | TC-PROC-002 | Domain model implemented | In Progress |
 | FR-PROC-003 | Persistence Repository | TC-DB-001 | Not implemented | Planned |
 | FR-PROC-004 | SQLite Repository | TC-DB-002 | Not implemented | Planned |
 | FR-PROC-005 | Parser / Collector | TC-PROC-003 | Not implemented | Planned |
